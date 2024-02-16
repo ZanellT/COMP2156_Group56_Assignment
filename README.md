@@ -1,21 +1,28 @@
-# COMP2156 DevOps Group Assignment - Tomas Branch
+# COMP2156_Group56_Assignment
 
-This branch is part of the COMP2156 DevOps group assignment repository. It contains work done by me (student ID: 100883658) as per the requirements of the assignment.
+## Introduction
 
-## Purpose
+Welcome to the COMP2156 DevOps Group 56 assignment repository. This README serves as an overview of our project, highlighting our objectives, tasks, and the contributions of each group member.
 
-The branch showcases the practical application of DevOps principles and tools learned throughout the course. The focus is on demonstrating the ability to use Git for version control, understanding the significance of DevOps in the software development lifecycle, and contributing to a collaborative project environment.
+## Objective
 
-## Contents
+Our group assignment focuses on the practical integration of DevOps practices within software development cycles. Through this project, we aim to demonstrate our proficiency in utilizing Git, understanding DevOps principles, and effectively applying them in collaborative software development environments.
 
-- `100883658_gb.txt`: Contains information and insights on George Brown College.
-- `100883658_devops.txt`: Details the COMP2156 DevOps course content, reflecting on the learning experience.
-- `100883658_sdlc.txt`: Discusses the importance of DevOps in the software development cycle, emphasizing continuous integration, continuous delivery, and the benefits of automation and collaboration.
+## Group Members
 
-## Commit Strategy
+- Tomas
+- Max
+- Harold
+- Jeffrey
 
-Over the course of this project, at least 10 commits were made to ensure that each significant change and iteration was documented properly. This approach aligns with best practices in version control and demonstrates an incremental and structured development process.
+## Tasks
 
-## Collaboration
+Each group member is responsible for completing specific tasks, including:
 
-The work on this branch was carried out with the aim of merging the changes into the main project repository. It represents a piece of the collaborative efforts of all group members in achieving the common goal of understanding and applying DevOps practices.
+- Creating designated files (`Studentid_gb.txt`, `Studentid_devops.txt`, `Studentid_sdlc.txt`) with original content.
+- Making a minimum of 10 commits to demonstrate incremental progress and version control proficiency.
+- Merging all branch changes to the main repository to ensure collaboration and integration of individual contributions.
+
+## Contribution
+
+Our collaborative efforts in this assignment are aimed at showcasing our collective skills in enhancing productivity, facilitating faster deployment, and fostering a culture of continuous improvement through the implementation of DevOps methodologies.
