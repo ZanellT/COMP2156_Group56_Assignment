@@ -1,4 +1,4 @@
-COMP2156 - DevOps For System Administration
+COMP2156 - DevOps For System Administration.
 
 The DevOps course is about learning the key skills of a DevOps engineer, which is vital for improving work processes. 
 This course will teach you the use of essential tools and industry practices for effective system administration. 
