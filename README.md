@@ -1,0 +1,3 @@
+# COMP2156_Group56_Assignment
+
+This README introduces our COMP2156 DevOps group assignment, a practical exploration into integrating DevOps practices within software development cycles. It outlines the tasks each group member must complete, including creating specific files and committing changes to demonstrate proficiency in using Git, understanding DevOps principles, and applying them effectively in collaborative software development. Our aim is to showcase our skills in enhancing productivity, ensuring faster deployment, and fostering a culture of continuous improvement through DevOps methodologies.
