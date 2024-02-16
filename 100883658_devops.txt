@@ -1,0 +1,6 @@
+The COMP2156 course is about learning the key skills of a DevOps engineer for improving work processes. 
+It teaches practical use of tools and best practices for effective system management. 
+Students will handle various data formats and DevOps tools to solve complex problems and automate network tasks.
+By the end of the course, students will know how to use DevOps in system engineering, work with cloud databases, 
+improve collaboration, manage software development, decide on software architecture, maintain code quality, 
+and integrate security into the development process.
