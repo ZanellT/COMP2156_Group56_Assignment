@@ -1,2 +1,3 @@
 Learning DevOps is extremely important for callaborative IT work as it serves to enhance, and quicken development cycles
 DevOps have to possess the skill to combine automation, system administration, and coding
+By using DevOps you are able to increase the scalability, software dev speed, and quality
