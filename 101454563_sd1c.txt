@@ -1,1 +1,2 @@
 Learning DevOps practices is crucial in modern software development cycles to streamline collaboration between the different teams involved.
+DevOps engineers get to automate processes like testing, deployment, and allow for continuous integerations and delivery pipelines.
