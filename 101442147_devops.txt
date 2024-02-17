@@ -1,1 +1,2 @@
 DevOps is a collaborative approach to IT aimed at improving the efficiency, speed, and quality of software products.
+In this course we will be learning how the basics of GitHub through Projects, labs and lectures
