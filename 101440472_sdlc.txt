@@ -1,0 +1,17 @@
+DevOps is incredibly useful for anyone involved in software creation. 
+
+Having a solid understanding and knowledge of DevOps is important for software development as it helps to improve efficiency and collaboration,
+
+allows for continuous integration and delivery,
+
+enables automation for tasks
+
+allows for continuous monitoring and feedback
+
+encourages collaborative problem solving
+
+is resiliant and scalable
+
+and has security integration.
+
+All together having knowledge and experience with DevOps is essential for those working in the software development industry.

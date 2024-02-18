@@ -1,4 +1,5 @@
 # COMP2156_Group56_Assignment
+# COMP2156_Group56_Assignment
 
 ## Introduction
 
@@ -26,3 +27,6 @@ Each group member is responsible for completing specific tasks, including:
 ## Contribution
 
 Our collaborative efforts in this assignment are aimed at showcasing our collective skills in enhancing productivity, facilitating faster deployment, and fostering a culture of continuous improvement through the implementation of DevOps methodologies.
+
+## Approvals
+This message was approved by Jeff, Max, Tomas, and Harold.
